@@ -1,0 +1,22 @@
+# Rust
+target
+Cargo.lock
+
+# Node
+node_modules
+dist
+*.local
+
+# Editor
+.vscode
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Stellar
+.soroban
+.stellar
