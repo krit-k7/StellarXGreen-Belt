@@ -108,7 +108,7 @@ The inter-contract call is the core of this architecture: the Router atomically 
 
 ## 🌐 Live Demo
 
-[View Live dApp on Vercel](https://stellar-level4-kappa.vercel.app/)
+[View Live dApp on Vercel](https://stellar-x-green-belt.vercel.app/)
 
 ---
 
