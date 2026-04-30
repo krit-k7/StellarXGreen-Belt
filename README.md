@@ -21,6 +21,21 @@ The World Bank estimates that reducing remittance fees to 3% would keep **$20 bi
 
 ---
 
+## 🧪 Real-World Use Case (Step-by-Step)
+
+A migrant worker in the USA wants to send $100 to their family in India.
+
+1. The sender opens StellarRemit and connects their wallet.
+2. They enter the amount in XLM and select INR as the destination currency.
+3. The RemittanceRouter contract is triggered, which securely processes the transaction.
+4. The contract calls ExchangeLedger to convert XLM into INR using predefined exchange rates.
+5. The converted amount is recorded and transferred on-chain within seconds.
+6. The recipient receives the funds almost instantly with minimal fees.
+
+This process eliminates intermediaries like banks or remittance services, reducing costs from 5–10% to near-zero while ensuring full transparency and speed.
+
+---
+
 ## ✨ Features
 
 - **🔗 Inter-Contract Architecture** — `RemittanceRouter` calls `ExchangeLedger` via `env.invoke_contract()`, demonstrating real Soroban cross-contract communication in a meaningful context.
