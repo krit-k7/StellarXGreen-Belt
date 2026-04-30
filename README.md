@@ -1,4 +1,4 @@
-# 🌍 StellarRemit — Peer-to-peer cross-border payment system using blockchain
+# 🌍 StellarRemit — Decentralized Cross-Border Remittance Platform
 
 > **Solving a $50B problem**: Migrant workers worldwide pay 5–10% in fees to services like Western Union. StellarRemit cuts that to near-zero using Stellar's Soroban smart contracts — settling in seconds, not days.
 
