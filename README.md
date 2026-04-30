@@ -21,7 +21,7 @@ The World Bank estimates that reducing remittance fees to 3% would keep **$20 bi
 
 ---
 
-## 🧪 Real-World Use Case (Step-by-Step)
+## 🧪 Real-World Use Case (Step-by-Step) :-
 
 A migrant worker in the USA wants to send $100 to their family in India.
 
