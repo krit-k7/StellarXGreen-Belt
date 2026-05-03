@@ -36,7 +36,7 @@ This process eliminates intermediaries like banks or remittance services, reduci
 
 ---
 
-## ✨ Features
+## ✨ Features:-
 
 - **🔗 Inter-Contract Architecture** — `RemittanceRouter` calls `ExchangeLedger` via `env.invoke_contract()`, demonstrating real Soroban cross-contract communication in a meaningful context.
 - **💱 Multi-Currency Support** — USD, EUR, INR, PHP, MXN corridors with on-chain exchange rate simulation.
