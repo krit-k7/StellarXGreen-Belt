@@ -187,7 +187,7 @@ npm run dev
 
 ---
 
-## ✅ Submission Checklist
+## ✅ Submission Checklist:-
 
 - [x] **Clear real-world problem**: Cross-border remittances with 5-10% traditional fees
 - [x] **Stellar value-add**: 3-5s settlement, near-zero fees, transparent on-chain audit
