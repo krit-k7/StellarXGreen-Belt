@@ -178,7 +178,7 @@ stellar contract deploy --wasm target/wasm32v1-none/release/token.wasm --source 
 stellar contract deploy --wasm target/wasm32v1-none/release/vault.wasm --source <your-id> --network testnet
 ```
 
-### 3. Frontend Setup
+### 3. Frontend Setup:-
 ```bash
 cd frontend
 npm install
