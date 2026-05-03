@@ -6,7 +6,7 @@
 
 ## 🎯 Real-World Problem & Solution:-
 
-### The Problem
+### The Problem-
 Over **200 million migrants** send money home to support 800+ million family members. Traditional remittance services (Western Union, MoneyGram) charge **5–10% fees** and take **2–5 business days**. For someone earning minimum wage, that's a significant portion of their paycheck lost to middlemen.
 
 ### How Stellar Solves It
