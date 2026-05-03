@@ -48,7 +48,7 @@ This process eliminates intermediaries like banks or remittance services, reduci
 
 ---
 
-## 🏗️ Contract Architecture
+## 🏗️ Contract Architecture:-
 
 ```
 User Wallet
