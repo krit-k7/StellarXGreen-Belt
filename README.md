@@ -9,7 +9,7 @@
 ### The Problem-
 Over **200 million migrants** send money home to support 800+ million family members. Traditional remittance services (Western Union, MoneyGram) charge **5–10% fees** and take **2–5 business days**. For someone earning minimum wage, that's a significant portion of their paycheck lost to middlemen.
 
-### How Stellar Solves It
+### How Stellar Solves It-
 Stellar was designed specifically for cross-border payments. With **3–5 second finality** and fees of **~0.0001 XLM** per transaction, StellarRemit demonstrates how blockchain makes remittances:
 - **10–100x cheaper** than traditional services
 - **1000x faster** than bank wires
