@@ -73,7 +73,7 @@ The inter-contract call is the core of this architecture: the Router atomically 
 
 ---
 
-## 📄 Contract Information
+## 📄 Contract Information:-
 
 - **Network**: Stellar Testnet
 - **RemittanceRouter Contract ID**: [`CALUMWUGTN2STIK2CUUOGWUENIM354J5YCBZHACRY6HOUVCJWH5GB6EW`](https://stellar.expert/explorer/testnet/contract/CALUMWUGTN2STIK2CUUOGWUENIM354J5YCBZHACRY6HOUVCJWH5GB6EW)
